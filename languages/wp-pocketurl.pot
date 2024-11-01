@@ -1,0 +1,441 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WP Pocket URLs\n"
+"POT-Creation-Date: 2020-08-07 15:35+0300\n"
+"PO-Revision-Date: 2020-08-07 15:35+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wp-pocketurl.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: assets/views/clicks_details.php:19
+msgid "Clicks Total: "
+msgstr ""
+
+#: assets/views/clicks_details.php:19
+msgid " clicks"
+msgstr ""
+
+#: assets/views/clicks_details.php:22
+msgid "No."
+msgstr ""
+
+#: assets/views/clicks_details.php:23
+msgid "Date/Time"
+msgstr ""
+
+#: assets/views/clicks_details.php:24
+msgid "IP"
+msgstr ""
+
+#: assets/views/clicks_details.php:25
+msgid "Country"
+msgstr ""
+
+#: assets/views/clicks_details.php:26
+msgid "City"
+msgstr ""
+
+#: assets/views/clicks_details.php:27
+msgid "Region Code"
+msgstr ""
+
+#: assets/views/clicks_details.php:28
+msgid "Latitude/Longitude"
+msgstr ""
+
+#: assets/views/clicks_details.php:29
+msgid "Timezone"
+msgstr ""
+
+#: assets/views/clicks_details.php:53
+msgid "Page:"
+msgstr ""
+
+#: assets/views/clicks_details.php:53
+msgid "of"
+msgstr ""
+
+#: assets/views/clicks_details.php:73
+msgid "There are no clicks yet."
+msgstr ""
+
+#: assets/views/link-options.php:2
+msgid "Link Redirect URL:"
+msgstr ""
+
+#: assets/views/link-options.php:4
+msgid "This field can not be empty, and it must contain a valid URL!"
+msgstr ""
+
+#: assets/views/link-options.php:13
+msgid "Redirect Advanced Options:"
+msgstr ""
+
+#: assets/views/link-options.php:14
+msgid "Redirect Type:"
+msgstr ""
+
+#: assets/views/link-options.php:17 classes/class-wp-pocketurl-admin.php:158
+msgid "301 Redirect"
+msgstr ""
+
+#: assets/views/link-options.php:18 classes/class-wp-pocketurl-admin.php:159
+msgid "302 Redirect"
+msgstr ""
+
+#: assets/views/link-options.php:19 classes/class-wp-pocketurl-admin.php:160
+msgid "303 Redirect"
+msgstr ""
+
+#: assets/views/link-options.php:20 classes/class-wp-pocketurl-admin.php:161
+msgid "307 Redirect"
+msgstr ""
+
+#: assets/views/link-options.php:21 classes/class-wp-pocketurl-admin.php:162
+msgid "JavaScript Redirect"
+msgstr ""
+
+#: assets/views/reports.php:62
+msgid "WP Pocket URLs Reports"
+msgstr ""
+
+#: assets/views/reports.php:116
+msgid "Total:"
+msgstr ""
+
+#: assets/views/reports.php:116
+msgid "clicks"
+msgstr ""
+
+#: assets/views/settings.php:35
+msgid "WP Pocket URLs Default Settings"
+msgstr ""
+
+#: assets/views/settings.php:39
+msgid "You may need to "
+msgstr ""
+
+#: assets/views/settings.php:40
+msgid "save site permalink settings page"
+msgstr ""
+
+#: assets/views/settings.php:40
+msgid "after updating link prefix setting!"
+msgstr ""
+
+#: classes/class-wp-pocketurl-admin.php:7
+msgid "The above will be the short link slug on your site"
+msgstr ""
+
+#: classes/class-wp-pocketurl-admin.php:32
+#: classes/class-wp-pocketurl-admin.php:36
+msgid "Link"
+msgstr ""
+
+#: classes/class-wp-pocketurl-admin.php:33 classes/class-wp-pocketurl.php:138
+msgid "Link Categories"
+msgstr ""
+
+#: classes/class-wp-pocketurl-admin.php:34
+#: classes/class-wp-pocketurl-admin.php:51
+msgid "Clicks"
+msgstr ""
+
+#: classes/class-wp-pocketurl-admin.php:35
+msgid "Redirect To"
+msgstr ""
+
+#: classes/class-wp-pocketurl-admin.php:37
+msgid "Date"
+msgstr ""
+
+#: classes/class-wp-pocketurl-admin.php:48
+msgid "Name"
+msgstr ""
+
+#: classes/class-wp-pocketurl-admin.php:49
+msgid "Description"
+msgstr ""
+
+#: classes/class-wp-pocketurl-admin.php:50
+msgid "Slug"
+msgstr ""
+
+#: classes/class-wp-pocketurl-admin.php:52
+msgid "Count"
+msgstr ""
+
+#: classes/class-wp-pocketurl-admin.php:75
+msgid "Uncategorized"
+msgstr ""
+
+#: classes/class-wp-pocketurl-admin.php:168
+#: classes/class-wp-pocketurl-admin.php:176
+msgid "Yes"
+msgstr ""
+
+#: classes/class-wp-pocketurl-admin.php:169
+#: classes/class-wp-pocketurl-admin.php:177
+msgid "No"
+msgstr ""
+
+#: classes/class-wp-pocketurl-admin.php:219
+msgid "Link Title"
+msgstr ""
+
+#: classes/class-wp-pocketurl-admin.php:220
+msgid "Clicks/Hits"
+msgstr ""
+
+#: classes/class-wp-pocketurl-admin.php:221
+msgid "Redirect to"
+msgstr ""
+
+#: classes/class-wp-pocketurl-admin.php:222
+#: classes/class-wp-pocketurl-admin.php:234
+msgid "Edit"
+msgstr ""
+
+#: classes/class-wp-pocketurl-admin.php:231
+msgid "View"
+msgstr ""
+
+#: classes/class-wp-pocketurl-reports.php:56
+msgid "Update"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:67
+msgctxt "Link Type General Name"
+msgid "Links"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:68
+msgctxt "Link Type Singular Name"
+msgid "Link"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: classes/class-wp-pocketurl.php:69
+msgid "WP Pocket URLs"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:70
+msgid "Link Type"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:71
+msgid "Parent Item:"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:72
+msgid "All Links"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:73
+msgid "Add New Link"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:74
+msgid "Add New"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:75
+msgid "New Link"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:76
+msgid "Edit Link"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:77
+msgid "Update Link"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:78
+msgid "View Link"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:79
+msgid "Search Item"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:80
+msgid "Not found"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:81
+msgid "Not found in Trash"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:111
+msgid "wp_pocketurl_link"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:112
+msgid "Redirect Rule"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:136
+msgctxt "Taxonomy General Name"
+msgid "Link Categories"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:137
+msgctxt "Taxonomy Singular Name"
+msgid "Link Category"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:139
+msgid "All Categories"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:140
+msgid "Parent Category"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:141
+msgid "Parent Category:"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:142
+msgid "New Category"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:143
+msgid "Add New Category"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:144
+msgid "Edit Category"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:145
+msgid "Update Category"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:146
+msgid "View Link Category"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:147
+msgid "Separate Link Categories with commas"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:148
+msgid "Add or remove Link Categories"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:149
+msgid "Choose from the most used"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:150
+msgid "Popular Categories"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:151
+msgid "Search Items"
+msgstr ""
+
+#: classes/class-wp-pocketurl.php:152
+msgid "Not Found"
+msgstr ""
+
+#: res/other/plugin-dash.php:14
+msgid "Recommended Plugins For You"
+msgstr ""
+
+#: res/other/plugin-dash.php:43 res/other/plugin-dash.php:141
+msgid "Error getting content: "
+msgstr ""
+
+#: res/other/plugin-dash.php:50 res/other/plugin-dash.php:148
+msgid "Apparently, there are no updates to show!"
+msgstr ""
+
+#: res/other/plugin-dash.php:83
+msgid "FAQ"
+msgstr ""
+
+#: res/other/plugin-dash.php:83
+msgid "Support"
+msgstr ""
+
+#: res/other/plugin-dash.php:83
+msgid "View More"
+msgstr ""
+
+#: res/other/plugin-dash.php:83 res/other/plugin-dash.php:181
+msgid "Don't show this widget"
+msgstr ""
+
+#: res/other/plugin-dash.php:111
+msgid "Latest News"
+msgstr ""
+
+#: res/other/plugin-dash.php:181
+msgid "+ More"
+msgstr ""
+
+#: res/other/plugin-dash.php:220
+msgid "Highlighted"
+msgstr ""
+
+#: res/other/plugin-dash.php:226
+msgid "A selection of plugins, highlighted for you."
+msgstr ""
+
+#: res/other/plugin-dash.php:404
+msgid "Download Now"
+msgstr ""
+
+#: res/other/plugin-dash.php:405
+msgid "More information about"
+msgstr ""
+
+#: res/other/plugin-dash.php:405
+msgid "More Details"
+msgstr ""
+
+#: res/other/plugin-dash.php:438 res/other/plugin-dash.php:459
+msgid "Click here to get the plugin"
+msgstr ""
+
+#: res/other/plugin-dash.php:439
+msgid "Download the plugin here"
+msgstr ""
+
+#: res/other/plugin-dash.php:458
+msgid ""
+"Just download the plugin from CodeCanyon and install it to your site in a "
+"few seconds."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.coderevolution.ro"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"WP Pocket URLs gives you the ability to shorten your affiliate links and "
+"keep track of clicks for each link."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "CodeRevolution"
+msgstr ""
